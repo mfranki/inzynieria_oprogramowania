@@ -1,0 +1,14 @@
+I-Logix-RPY-Archive version 8.5.2 * 1471822
+
+- filesTable = { IRPYRawContainer 
+	- size = 7;
+	- value = "Dishwasher_lesson4.rpy" ""
+	"Dishwasher_lesson4_rpy\\Default.sbs" "Default"
+	"Dishwasher_lesson4_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	"Dishwasher_lesson4_rpy\\com.sbs" "com"
+	"Dishwasher_lesson4_rpy\\dishwasher.sbs" "com::telelogic::dishwasher"
+	"Dishwasher_lesson4_rpy\\telelogic.sbs" "com::telelogic"
+	"Projects.rpl" ""
+	
+}
+

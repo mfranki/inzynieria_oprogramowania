@@ -1,0 +1,37 @@
+I-Logix-RPY-Archive version 8.5.2 Java 1471822
+{ ISubsystem 
+	- _id = GUID 7197be1b-72f0-4f98-962b-d3a8021186e1;
+	- _myState = 8192;
+	- _name = "com";
+	- _lastID = 1;
+	- Declaratives = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ ISubsystem 
+			- fileName = "telelogic";
+			- _id = GUID baa12b40-c3ef-4353-b464-5dcb9c0a41fe;
+		}
+	}
+	- weakCGTime = 3.15.2011::10:46:4;
+	- strongCGTime = 3.11.2011::6:49:0;
+	- _defaultComposite = GUID c624a3c8-85e2-4728-ac18-2fb15dc6d521;
+	- _eventsBaseID = -1;
+	- Classes = { IRPYRawContainer 
+		- size = 1;
+		- value = 
+		{ IClass 
+			- _id = GUID c624a3c8-85e2-4728-ac18-2fb15dc6d521;
+			- _myState = 40960;
+			- _name = "TopLevel";
+			- weakCGTime = 3.11.2011::6:49:48;
+			- strongCGTime = 3.11.2011::6:49:0;
+			- _multiplicity = "";
+			- _itsStateChart = { IHandle 
+				- _m2Class = "";
+			}
+			- _classModifier = Unspecified;
+		}
+	}
+	- _configurationRelatedTime = 1.2.1990::0:0:0;
+}
+
