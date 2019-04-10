@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1250</CODE-PAGE>
+	<version>100.831.0</version>
+	<lang>Java</lang>
+	<BuildNo>9835550</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 47c4ff9e-14b9-4253-bf63-bca775fd6afa</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">telelogic</_name>
+			<_modifiedTimeWeak type="a">4.10.2019::11:37:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.10.2019::11:37:51</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">4.10.2019::11:37:51</weakCGTime>
+			<strongCGTime type="a">4.10.2019::11:37:38</strongCGTime>
+			<_defaultComposite type="s">GUID 00f17e92-c7f8-46e6-af3b-b85feeefe75b</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 73b007ac-40fd-443c-a92c-6e5a6450f62f</value>
+				<value>GUID 00f17e92-c7f8-46e6-af3b-b85feeefe75b</value>
+			</AggregatesList>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">dishwasher</fileName>
+			<_id type="a">GUID 73b007ac-40fd-443c-a92c-6e5a6450f62f</_id>
+		</ISubsystem>
+		<IClass type="e">
+			<_id type="a">GUID 00f17e92-c7f8-46e6-af3b-b85feeefe75b</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
