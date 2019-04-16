@@ -11,8 +11,8 @@
 			<_id type="a">GUID 36f233a1-5a88-4a6d-9be6-f44ea064662b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Dishwasher</_name>
-			<_modifiedTimeWeak type="a">4.10.2019::11:36:32</_modifiedTimeWeak>
-			<_modifiedTime type="a">4.10.2019::11:36:32</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.16.2019::12:56:34</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.16.2019::12:56:34</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
@@ -45,7 +45,7 @@
 			<_component type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IComponent</_hm2Class>
-					<_hname type="a">DefaultComponent</_hname>
+					<_hname type="a">EXE</_hname>
 					<_hid type="a">GUID a3ce4b01-a65d-43d3-9a42-59b2957e3c16</_hid>
 				</IHandle>
 			</_component>
@@ -54,7 +54,7 @@
 					<size type="a">4</size>
 					<IMultiplicityItem type="e">
 						<_name type="a">1</_name>
-						<_count type="a">-1</_count>
+						<_count type="a">0</_count>
 					</IMultiplicityItem>
 					
 					<IMultiplicityItem type="e">
@@ -243,7 +243,7 @@
 			</Operations>
 		</CGIClass>
 		<IComponent type="e">
-			<fileName type="a">DefaultComponent</fileName>
+			<fileName type="a">EXE</fileName>
 			<_id type="a">GUID a3ce4b01-a65d-43d3-9a42-59b2957e3c16</_id>
 		</IComponent>
 		
