@@ -57,10 +57,10 @@
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
-								<m_nLeft type="a">75</m_nLeft>
-								<m_nTop type="a">75</m_nTop>
-								<m_nRight type="a">330</m_nRight>
-								<m_nBottom type="a">469</m_nBottom>
+								<m_nLeft type="a">125</m_nLeft>
+								<m_nTop type="a">125</m_nTop>
+								<m_nRight type="a">341</m_nRight>
+								<m_nBottom type="a">519</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
@@ -73,8 +73,41 @@
 								<_hid type="a">GUID c9af70a5-1416-43fe-9ad6-da8b65178d36</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 94 </_UpLeft>
-						<_DownRight type="a">202 404 </_DownRight>
+						<_UpLeft type="a">86 0 </_UpLeft>
+						<_DownRight type="a">265 335 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
+								<m_nLeft type="a">150</m_nLeft>
+								<m_nTop type="a">150</m_nTop>
+								<m_nRight type="a">366</m_nRight>
+								<m_nBottom type="a">544</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hfilename type="a">.\Dishwasher_rpy\dishwasher.sbsx</_hfilename>
+								<_hsubsystem type="a">com::telelogic::dishwasher</_hsubsystem>
+								<_hclass type="a">Display</_hclass>
+								<_hname type="a">StatechartDiagram</_hname>
+								<_hid type="a">GUID 287a2319-4280-4744-8980-5218e0544bd5</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 68 </_UpLeft>
+						<_DownRight type="a">113 280 </_DownRight>
 						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -91,57 +124,25 @@
 								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
 								<m_nLeft type="a">100</m_nLeft>
 								<m_nTop type="a">100</m_nTop>
-								<m_nRight type="a">1156</m_nRight>
+								<m_nRight type="a">860</m_nRight>
 								<m_nBottom type="a">503</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
-								<_hm2Class type="a">IStateChartDiagram</_hm2Class>
+								<_hm2Class type="a">IActivityDiagram</_hm2Class>
 								<_hfilename type="a">.\Dishwasher_rpy\dishwasher.sbsx</_hfilename>
 								<_hsubsystem type="a">com::telelogic::dishwasher</_hsubsystem>
-								<_hclass type="a">Dishwasher</_hclass>
-								<_hname type="a">StatechartDiagram</_hname>
-								<_hid type="a">GUID 0910afce-0d38-4e3c-bc3e-a98da38347ff</_hid>
+								<_hclass type="a">KeyReader</_hclass>
+								<_hname type="a">ActivityDiagram</_hname>
+								<_hid type="a">GUID 7ab1b263-5f23-4fa4-99bd-3e42735716b1</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">420 0 </_UpLeft>
-						<_DownRight type="a">790 548 </_DownRight>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">914 557 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-30</m_ptMaxPositionY>
-								<m_nLeft type="a">50</m_nLeft>
-								<m_nTop type="a">50</m_nTop>
-								<m_nRight type="a">307</m_nRight>
-								<m_nBottom type="a">444</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IUCDiagram</_hm2Class>
-								<_hfilename type="a">.\Dishwasher_rpy\dishwasher.sbsx</_hfilename>
-								<_hsubsystem type="a">com::telelogic::dishwasher</_hsubsystem>
-								<_hname type="a">dishwasher</_hname>
-								<_hid type="a">GUID ce2f3b45-5f27-4164-aa93-5b6f4623587f</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 16 </_UpLeft>
-						<_DownRight type="a">242 385 </_DownRight>
-						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
