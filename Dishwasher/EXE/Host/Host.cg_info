@@ -1,0 +1,86 @@
+I-Logix-RPY-Archive version 8.15.0 * 9835550
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 7;
+	- value = "EXE/Host/com/telelogic/dishwasher/Dishwasher.java" 4.16.2019::21:47:37
+	"EXE/Host/com/telelogic/dishwasher/DishwasherBuilder.java" 4.16.2019::13:1:33
+	"EXE/Host/com/telelogic/dishwasher/Display.java" 4.16.2019::13:1:33
+	"EXE/Host/com/telelogic/dishwasher/KeyReader.java" 4.16.2019::21:37:51
+	"EXE/Host/com/telelogic/dishwasher/ServicePerson.java" 4.16.2019::13:1:33
+	"EXE/Host/com/telelogic/dishwasher/User.java" 4.16.2019::13:1:33
+	"EXE/Host/com/telelogic/dishwasher/dishwasher_pkgClass.java" 4.16.2019::13:1:33
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 4;
+	- value = "GUID 47c4ff9e-14b9-4253-bf63-bca775fd6afa" "GUID d600fe40-780c-4867-85da-b9ccab13bbb1"
+	"GUID 73b007ac-40fd-443c-a92c-6e5a6450f62f" "GUID 47c4ff9e-14b9-4253-bf63-bca775fd6afa"
+	"GUID a3ce4b01-a65d-43d3-9a42-59b2957e3c16" "GUID 36f233a1-5a88-4a6d-9be6-f44ea064662b"
+	"GUID d600fe40-780c-4867-85da-b9ccab13bbb1" "GUID 36f233a1-5a88-4a6d-9be6-f44ea064662b"
+	
+}
+- size = 8;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\ProgramData\\IBM\\Rational\\Rhapsody\\8.3.1\\Dishwasher\\Dishwasher_rpy\\dishwasher.sbsx";
+	- _subsystem = "com::telelogic::dishwasher";
+	- _name = "DishwasherBuilder";
+	- _id = GUID f1b5c4f6-50ee-401e-b47f-5740c925bdd3;
+}
+- genTime = 4.16.2019::13:1:33;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = "C:\\ProgramData\\IBM\\Rational\\Rhapsody\\8.3.1\\Dishwasher\\Dishwasher_rpy\\dishwasher.sbsx";
+	- _subsystem = "com::telelogic::dishwasher";
+	- _name = "User";
+	- _id = GUID 46b5e0e2-d2c4-4934-b328-94271c012664;
+}
+- genTime = 4.16.2019::13:1:33;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = "C:\\ProgramData\\IBM\\Rational\\Rhapsody\\8.3.1\\Dishwasher\\Dishwasher_rpy\\dishwasher.sbsx";
+	- _subsystem = "com::telelogic::dishwasher";
+	- _name = "ServicePerson";
+	- _id = GUID 8202f0c0-b12f-4830-a73d-b3755ba3d82c;
+}
+- genTime = 4.16.2019::13:1:33;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\ProgramData\\IBM\\Rational\\Rhapsody\\8.3.1\\Dishwasher\\Dishwasher_rpy\\dishwasher.sbsx";
+	- _subsystem = "com::telelogic::dishwasher";
+	- _name = "Display";
+	- _id = GUID 93f8a25a-a9e0-4e5c-8923-4363a8f71dee;
+}
+- genTime = 4.16.2019::13:1:33;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\ProgramData\\IBM\\Rational\\Rhapsody\\8.3.1\\Dishwasher\\Dishwasher_rpy\\dishwasher.sbsx";
+	- _subsystem = "com::telelogic::dishwasher";
+	- _name = "Dishwasher";
+	- _id = GUID cbe8d974-7200-48a7-be3f-ff6ea68092db;
+}
+- genTime = 4.16.2019::21:47:37;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = "C:\\ProgramData\\IBM\\Rational\\Rhapsody\\8.3.1\\Dishwasher\\Dishwasher_rpy\\EXE.cmpx";
+	- _name = "EXE\\Host";
+	- _id = GUID f4611137-14e6-45f0-8ef9-a695de08fbf2;
+}
+- genTime = 4.16.2019::21:47:37;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "C:\\ProgramData\\IBM\\Rational\\Rhapsody\\8.3.1\\Dishwasher\\Dishwasher_rpy\\dishwasher.sbsx";
+	- _subsystem = "com::telelogic";
+	- _name = "dishwasher";
+	- _id = GUID 73b007ac-40fd-443c-a92c-6e5a6450f62f;
+}
+- genTime = 4.16.2019::21:41:38;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "C:\\ProgramData\\IBM\\Rational\\Rhapsody\\8.3.1\\Dishwasher\\Dishwasher_rpy\\dishwasher.sbsx";
+	- _subsystem = "com::telelogic::dishwasher";
+	- _name = "KeyReader";
+	- _id = GUID 6babfcc3-9c1e-43c6-af34-6a35d6074c1f;
+}
+- genTime = 4.16.2019::21:37:51;
+
